@@ -178,5 +178,23 @@
     "purchases": 117,
     "cost_per_purchase": 31.97,
     "conversion_rate": 0.69
+  },
+  {
+    "month": "2026-09",
+    "year": 2026,
+    "month_num": 9,
+    "date_start": "2026-09-01",
+    "date_stop": "2026-09-30",
+    "spend": 4390.75,
+    "link_clicks": 16574,
+    "cpc": 0.265,
+    "ctr": 2.816,
+    "impressions": 588564,
+    "cpm": 7.46,
+    "revenue": 14059.16,
+    "roas": 3.202,
+    "purchases": 171,
+    "cost_per_purchase": 25.68,
+    "conversion_rate": 1.032
   }
 ]
